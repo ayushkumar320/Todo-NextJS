@@ -95,7 +95,7 @@ export default function Card() {
           </ul>
           <button
             onClick={() => setShowAddTask(true)}
-            className="bg-blue-500 text-white px-4 py-2 rounded hover:cursor-pointer hover:bg-blue-700 hover:shadow-lg transition-all duration-200 w-full"
+            className="bg-blue-500 text-white px-4 py-2 rounded hover:cursor-pointer hover:bg-blue-700 hover:shadow-md transition-all duration-200 w-full"
           >
             Add Task
           </button>
